@@ -1,0 +1,8 @@
+D:\projects\epam\net_basics\method-newton\MethodNewtonTask\bin\Debug\netcoreapp3.1\MethodNewtonTask.deps.json
+D:\projects\epam\net_basics\method-newton\MethodNewtonTask\bin\Debug\netcoreapp3.1\MethodNewtonTask.dll
+D:\projects\epam\net_basics\method-newton\MethodNewtonTask\bin\Debug\netcoreapp3.1\MethodNewtonTask.pdb
+D:\projects\epam\net_basics\method-newton\MethodNewtonTask\obj\Debug\netcoreapp3.1\MethodNewtonTask.AssemblyInfoInputs.cache
+D:\projects\epam\net_basics\method-newton\MethodNewtonTask\obj\Debug\netcoreapp3.1\MethodNewtonTask.AssemblyInfo.cs
+D:\projects\epam\net_basics\method-newton\MethodNewtonTask\obj\Debug\netcoreapp3.1\MethodNewtonTask.csproj.CoreCompileInputs.cache
+D:\projects\epam\net_basics\method-newton\MethodNewtonTask\obj\Debug\netcoreapp3.1\MethodNewtonTask.dll
+D:\projects\epam\net_basics\method-newton\MethodNewtonTask\obj\Debug\netcoreapp3.1\MethodNewtonTask.pdb

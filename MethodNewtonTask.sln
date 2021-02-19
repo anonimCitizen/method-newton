@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodNewtonTask", "MethodNewtonTask\MethodNewtonTask.csproj", "{AAB72E5A-DE7B-4E26-9E9B-C3636629B625}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodNewtonTask.Tests", "MethodNewtonTask.Tests\MethodNewtonTask.Tests.csproj", "{E1B98DEB-4FCB-49E3-AC92-DCCD5A8AEA88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A2E5B2D-4262-4CFE-9B1E-EC2F1411119C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB72E5A-DE7B-4E26-9E9B-C3636629B625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB72E5A-DE7B-4E26-9E9B-C3636629B625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB72E5A-DE7B-4E26-9E9B-C3636629B625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB72E5A-DE7B-4E26-9E9B-C3636629B625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B98DEB-4FCB-49E3-AC92-DCCD5A8AEA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B98DEB-4FCB-49E3-AC92-DCCD5A8AEA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B98DEB-4FCB-49E3-AC92-DCCD5A8AEA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B98DEB-4FCB-49E3-AC92-DCCD5A8AEA88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE4A255-C384-4801-9D2A-39E40BCC28C8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "byyWKt25VBR5R6X1vs+tdADMbSF3LGCEeGSE7E73xURhCnSp4rx/HpALvfDEL7Gx9HwI6ckz+pW1BG/cVjQ09w==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\epam\\net_basics\\method-newton\\MethodNewtonTask\\MethodNewtonTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\internet\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\internet\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\internet\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\internet\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\internet\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\internet\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
